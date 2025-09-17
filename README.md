@@ -10,7 +10,7 @@ MarkDown es un lenguaje simple que nos permite escrbir texto con formato usando 
 
 Visual Studio Code es nuestro **IDE** escogido para esta practica, aquí esta su **página oficial** : [VSCode](https://code.visualstudio.com/)
 
-### CREAR "HOLA MUNDO"
+#### CREAR "HOLA MUNDO"
 
 1. Una vez tengamos instalado nuestro IDE **VSCode**, debemos crear nuestro archivo **.java**. Para ello debemos darle a > File / New File y pondremos el nombre de nuestro archivo,en este caso le pondremos de nombre "HolaMundo.java" y guardándolo en la ruta que deseemos.
 
